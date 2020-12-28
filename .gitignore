@@ -119,3 +119,4 @@ toy*.py
 .DS_Store
 toy*.py
 post/
+multi_cased_L-12_H-768_A-12*
